@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- ⚡ Fun fact **I think I am Job ready**
+- ⚡ Fun fact: **I think I am Job ready**
 
-- 👨‍💻 My Portfolio [https://demo.abdullahprofile.uk/#](https://demo.abdullahprofile.uk/#)
+- 👨‍💻 Go to My **Portfolio:** [https://demo.abdullahprofile.uk/#](https://demo.abdullahprofile.uk/#)
 
 
 <h3 align="left">Connect with me:</h3>
