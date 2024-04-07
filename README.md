@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I think I am Job ready**
 
-- 👨‍💻 View Projects projects on **My Portfolio:** [https://demo.abdullahprofile.uk/#](https://demo.abdullahprofile.uk/#)
+- 👨‍💻 View Projects projects on <a href="[https://demo.abdullahprofile.uk/#](https://demo.abdullahprofile.uk/#)" target="blank">"**My Portfolio:**</a> 
 
 
 <h3 align="left">Connect with me:</h3>
