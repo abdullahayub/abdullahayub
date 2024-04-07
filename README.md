@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Azure Machine Learning**
+- 🌱 I’m currently learning **Azure Machine Learning Solutions**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
