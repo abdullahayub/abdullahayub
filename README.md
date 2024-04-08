@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact: **I think I am Job ready**
 
-- 👨‍💻 View projects on <a href="https://demo.abdullahprofile.uk/" target="blank">**My Portfolio**</a> 
+- 👨‍💻 View projects on <a href="https://demo.abdullahprofile.uk/" target="blank">**My Portfolio**</a>
+- View My Certificates and Badges on <a href="https://www.credential.net/profile/abdullahayub748207/wallet#gs.7nr6dk" target="blank">**My Accredible Profile**</a> 
 
 
 <h3 align="left">Connect with me:</h3>
