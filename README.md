@@ -13,7 +13,7 @@
 - View My Certificates and Badges on <a href="https://www.credential.net/profile/abdullahayub748207/wallet#gs.7nr6dk" target="blank">**My Accredible Profile**</a> 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-ayub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-ayub/" height="30" width="40" /></a>
 </p>
