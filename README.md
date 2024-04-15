@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Abdullah Ayub</h1>
 <h3>Microsoft Certified Azure Data Scientist and Data Analyst Expert</h3>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Data Analytics and Visualization using Power BI, SQL, and Python**
 
-- 🌱 I’m currently learning **Azure Machine Learning Solutions**
+- 🌱 I’m currently learning **Azure Machine Learning Workspace**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
