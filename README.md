@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abdullah Ayub</h1>
-<h3>Microsoft Certified Azure Data Scientist and Data Analyst Expert</h3>
+<h3>Microsoft Certified Azure Data Scientist and Power BI Data Analyst</h3>
 
 - 🔭 I’m currently working on **Data Analytics and Visualization using Power BI, SQL, and Python**
 
